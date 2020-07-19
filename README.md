@@ -29,7 +29,7 @@ This is a web app that takes a user's birthday and calculates day of the week th
     2. Open the project in your preferred code editor.
     3. To view it, note the file path and open `/path/to/file/index.html` in your browser.
     
-### [Link to my portfolio](https://cindykatoni.github.io/akan/)
+### [Link to akan project](https://cindykatoni.github.io/akan/)
 
 Copyright &copy; 2020, Cindy Muema.
 All rights reserved.
